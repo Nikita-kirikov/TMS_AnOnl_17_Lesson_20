@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TMS_lesson_19</string>
+    <string name="button_add">Добавить заметку</string>
+    <string name="important">Важное</string>
+</resources>
